@@ -40,6 +40,9 @@ function studyCase2(n) {
     return output;
 }
 
+console.log(studyCase1(5));
+console.log(studyCase2(5));
+
 // Export modules for Jest testing
 if (typeof module !== 'undefined' && module.exports) {
     /**
