@@ -1,0 +1,15 @@
+{
+  "name": "study-case-hicolleagues",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Faiz Aditya Kurniawan",
+  "license": "ISC",
+  "description": "Study Case FullStack Developer Intern HiColleagues",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
