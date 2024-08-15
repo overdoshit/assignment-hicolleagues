@@ -3,7 +3,7 @@
 This repository is part of a programming assignment for the internship selection at HiColleagues. The project consists of two study cases that demonstrate fundamental programming concepts.
 
 <div align="center">
-  <img alt="Screenshot" src="https://raw.githubusercontent.com/overdoshit/study-case-hicolleagues/master/assets/images/Screenshot.png">
+  <img alt="Screenshot" src="https://raw.githubusercontent.com/overdoshit/assignment-hicolleagues/master/assets/images/Screenshot.png">
 </div>
 
 ## Table of Contents
@@ -30,10 +30,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/overdoshit/study-case-hicolleagues.git
+$ git clone https://github.com/overdoshit/assignment-hicolleagues.git
 
 # Go into the repository
-$ cd study-case-hicolleagues
+$ cd assignment-hicolleagues
 
 # Install dependencies
 $ npm install
@@ -41,7 +41,7 @@ $ npm install
 
 ## Usage
 You can try the project directly without installation by visiting:
-https://overdoshit.github.io/study-case-hicolleagues/
+https://overdoshit.github.io/assignment-hicolleagues/
 
 To generate the patterns locally, you can run the following command:
 ```bash
@@ -58,7 +58,7 @@ $ npm test
 ```
 Example output:
 ```bash
-> study-case-hicolleagues@1.0.0 test
+> assignment-hicolleagues@1.0.0 test
 > jest --coverage
 
  PASS  ./main.test.js
